@@ -1,6 +1,10 @@
 # Setup pipeline using CircleCI, update GitHub Kubernetes manifest repo and push image on Docker Hub
 
+<<<<<<< HEAD
 ✨This repository contains the code of the **Kubernetes manifest files** as part of the GitOps Project! In this comprehensive hands-on project, we dive deep into the world of **GitOps and ArgoCD**, demonstrating how to implement these essential DevOps practices step by step by **dockerizing** the application and provisioning the infrastructure using **Terraform**.
+=======
+✨This repository contains the code of the **Kubernetes manifest files** as part of the GitOps Project! In this comprehensive hands-on project, I dive deep into the world of **GitOps and ArgoCD**, demonstrating how to implement these essential DevOps practices step by step by **dockerizing** the application and provisioning the infrastructure using **Terraform**.
+>>>>>>> eed3496b312f97982894ecce4d834e226af9790e
 
 ## 💪Complete Hands-on video tutorial for this project. Click here 👇
 [![GitOps , ArgoCD, Terraform](https://i9.ytimg.com/vi_webp/LgBnbmfsIdA/mqdefault.webp?v=65001550&sqp=CMyFgqgG&rs=AOn4CLB-7wLlJjUqu2q7dOdDMdQRyQ46TA)](https://youtu.be/LgBnbmfsIdA "GitOps|ArgoCD|Terraform")
